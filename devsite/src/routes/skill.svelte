@@ -11,46 +11,128 @@
           <h1 class="text-4xl font font-extrabold tracking-tight text-gray-900 sm:text-6xl">
             My skillset includes    
           </h1>
-          <p class="mt-4 text-xl text-gray-500">This year, our new summer collection will shelter you from the harsh elements of a world that doesn't care if you live or die.</p>
+          <p class="mt-4 text-xl text-gray-500">Frontend | Backend | API Development</p>
         </div>
         <div>
-          <div class="mt-10">
-            <!-- Decorative image grid -->
-            <div aria-hidden="true" class="pointer-events-none lg:absolute lg:inset-y-0 lg:max-w-7xl lg:mx-auto lg:w-full">
-              <div class="absolute transform sm:left-1/2 sm:top-0 sm:translate-x-8 lg:left-1/2 lg:top-1/2 lg:-translate-y-1/2 lg:translate-x-8">
-                <div class="flex items-center space-x-6 lg:space-x-8">
-                  <div class="flex-shrink-0 grid grid-cols-1 gap-y-6 lg:gap-y-8">
-                    <div class="w-44 h-64 rounded-lg overflow-hidden sm:opacity-0 lg:opacity-100">
-                      <img src="https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-01.jpg" alt="" class="w-full h-full object-center object-cover">
-                    </div>
-                    <div class="w-44 h-64 rounded-lg overflow-hidden">
-                      <img src="https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-02.jpg" alt="" class="w-full h-full object-center object-cover">
-                    </div>
+          
+
+    <section class="container p-6 mx-auto bg-white dark:bg-gray-800">
+
+
+      <div class="flex items-center justify-center">
+          <div class="grid gap-8 mt-8 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+              <div class="w-full max-w-xs text-center motion-safe:hover:scale-110 ">
+                  <img class="object-cover object-center w-full h-48 mx-auto rounded-lg" src="/images/js.png" alt="avatar"/>
+
+                  <div class="mt-2">
+                      <h3 class="text-lg font-medium text-gray-700 dark:text-gray-200">Javascript</h3>
                   </div>
-                  <div class="flex-shrink-0 grid grid-cols-1 gap-y-6 lg:gap-y-8">
-                    <div class="w-44 h-64 rounded-lg overflow-hidden">
-                      <img src="https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-03.jpg" alt="" class="w-full h-full object-center object-cover">
-                    </div>
-                    <div class="w-44 h-64 rounded-lg overflow-hidden">
-                      <img src="https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-04.jpg" alt="" class="w-full h-full object-center object-cover">
-                    </div>
-                    <div class="w-44 h-64 rounded-lg overflow-hidden">
-                      <img src="https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-05.jpg" alt="" class="w-full h-full object-center object-cover">
-                    </div>
-                  </div>
-                  <div class="flex-shrink-0 grid grid-cols-1 gap-y-6 lg:gap-y-8">
-                    <div class="w-44 h-64 rounded-lg overflow-hidden">
-                      <img src="https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-06.jpg" alt="" class="w-full h-full object-center object-cover">
-                    </div>
-                    <div class="w-44 h-64 rounded-lg overflow-hidden">
-                      <img src="https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-07.jpg" alt="" class="w-full h-full object-center object-cover">
-                    </div>
-                  </div>
-                </div>
               </div>
+
+              <div class="w-full max-w-xs text-center  motion-safe:hover:scale-110 ">
+                  <img class="object-cover object-center w-full h-38 mx-auto rounded-lg" src="/images/react.png" alt="avatar"/>
+
+                  <div class="mt-2">
+                      <h3 class="text-lg font-medium text-gray-700 dark:text-gray-200">React</h3>
+                  </div>
+              </div>
+
+              <div class="w-full max-w-xs text-center motion-safe:hover:scale-110 ">
+                  <img class="object-cover object-center w-full h-38 mx-auto rounded-lg" src="/images/tw.svg" alt="avatar"/>
+
+                  <div class="mt-2">
+                      <h3 class="text-lg font-medium text-gray-700 dark:text-gray-200">Tailwindcss</h3>
+                  </div>
+              </div>
+
+              <div class="w-full max-w-xs text-center motion-safe:hover:scale-110 ">
+                <img class="object-cover object-center w-full h-38 mx-auto rounded-lg" src="/images/svelte.png" alt="avatar"/>
+
+                <div class="mt-2">
+                    <h3 class="text-lg font-medium text-gray-700 dark:text-gray-200">Svelte</h3>
+                </div>
             </div>
-  
+
+              <div class="w-full max-w-xs text-center motion-safe:hover:scale-110 ">
+                <img class="object-cover object-center w-full h-38 mx-auto rounded-lg" src="/images/ts.png" alt="avatar"/>
+
+                <div class="mt-2">
+                    <h3 class="text-lg font-medium text-gray-700 dark:text-gray-200">Typescript</h3>
+                </div>
+            </div>
+
+              <div class="w-full max-w-xs text-center motion-safe:hover:scale-110 ">
+                  <img class="object-cover object-center w-full h-38 mx-auto rounded-lg" src="/images/node.png" alt="avatar"/>
+
+                  <div class="mt-2">
+                      <h3 class="text-lg font-medium text-gray-700 dark:text-gray-200">Node JS</h3>
+                  </div>
+              </div>
+
+              <div class="w-full max-w-xs text-center motion-safe:hover:scale-110 ">
+                <img class="object-cover object-center w-full h-38 mx-auto rounded-lg" src="/images/d.png" alt="avatar"/>
+
+                <div class="mt-2">
+                    <h3 class="text-lg font-medium text-gray-700 dark:text-gray-200">Docker</h3>
+                </div>
+            </div>
+
+            <div class="w-full max-w-xs text-center motion-safe:hover:scale-110 ">
+              <img class="object-cover object-center w-full h-38 mx-auto rounded-lg" src="/images/mongo.png" alt="avatar"/>
+
+              <div class="mt-2">
+                  <h3 class="text-lg font-medium text-gray-700 dark:text-gray-200">Mongo DB</h3>
+              </div>
           </div>
+
+          <div class="w-full max-w-xs text-center motion-safe:hover:scale-110 ">
+            <img class="object-cover object-center w-full h-35 mx-auto rounded-lg" src="/images/fa.png" alt="avatar"/>
+
+            <div class="mt-2">
+                <h3 class="text-lg font-medium text-gray-700 dark:text-gray-200">Fast API</h3>
+            </div>
+        </div>
+
+
+        <div class="w-full max-w-xs text-center motion-safe:hover:scale-110 ">
+          <img class="object-cover object-center w-full h-35 mx-auto rounded-lg" src="/images/py.png" alt="avatar"/>
+
+          <div class="mt-2">
+              <h3 class="text-lg font-medium text-gray-700 dark:text-gray-200">Python</h3>
+          </div>
+      </div>
+
+
+      <div class="w-full max-w-xs text-center motion-safe:hover:scale-110 ">
+        <img class="object-cover object-center w-full h-38 mx-auto rounded-lg" src="/images/ks.png" alt="avatar"/>
+
+        <div class="mt-2">
+            <h3 class="text-lg font-medium text-gray-700 dark:text-gray-200">Keystone JS</h3>
+        </div>
+    </div>
+
+
+    <div class="w-full max-w-xs text-center motion-safe:hover:scale-110 ">
+      <img class="object-cover object-center w-full h-38 mx-auto rounded-lg" src="/images/git.png" alt="avatar"/>
+
+      <div class="mt-2">
+          <h3 class="text-lg font-medium text-gray-700 dark:text-gray-200">Git</h3>
+      </div>
+  </div>
+
+  <div class="w-full max-w-xs text-center motion-safe:hover:scale-110 ">
+    <img class="object-cover object-center w-full h-48 mx-auto rounded-lg" src="/images/pg.png" alt="avatar"/>
+
+    <div class="mt-2">
+        <h3 class="text-lg font-medium text-gray-700 dark:text-gray-200">Postgres</h3>
+    </div>
+</div>
+
+
+          </div>
+      </div>
+  </section>
+
         </div>
       </div>
     </div>
