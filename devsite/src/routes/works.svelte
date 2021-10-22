@@ -4,7 +4,6 @@
 
 
 
-
 <div class="w-full bg-white p-12">
     <div class="header flex items-end justify-between mb-12">
         <div class="title">
