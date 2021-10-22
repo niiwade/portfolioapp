@@ -18,7 +18,7 @@
         <div class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-12">
             <div class="overflow-hidden shadow-lg rounded-lg h-90 w-60 md:w-80 cursor-pointer m-auto">
                 <a href="#" class="w-full block h-full">
-                    <img alt="blog photo" src="work1.png" class="max-h-40 w-full object-cover"/>
+                    <img alt="blog photo" src="/work1.png" class="max-h-40 w-full object-cover"/>
                     <div class="bg-white dark:bg-gray-800 w-full p-4">
                         <p class="text-indigo-500 text-md font-medium">
                             Video
@@ -47,7 +47,7 @@
             </div>
             <div class="overflow-hidden shadow-lg rounded-lg h-90 w-60 md:w-80 cursor-pointer m-auto">
                 <a href="#" class="w-full block h-full">
-                    <img alt="blog photo" src="/work2.jpng" class="max-h-40 w-full object-cover"/>
+                    <img alt="blog photo" src="/work2.png" class="max-h-40 w-full object-cover"/>
                     <div class="bg-white dark:bg-gray-800 w-full p-4">
                         <p class="text-indigo-500 text-md font-medium">
                             Oui
