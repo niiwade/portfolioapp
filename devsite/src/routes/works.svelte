@@ -21,27 +21,14 @@
                     <img alt="blog photo" src="/work1.png" class="max-h-40 w-full object-cover"/>
                     <div class="bg-white dark:bg-gray-800 w-full p-4">
                         <p class="text-indigo-500 text-md font-medium">
-                            Video
+                            Webapp
                         </p>
                         <p class="text-gray-800 dark:text-white text-xl font-medium mb-2">
-                            Work at home
+                            Vidpics 
                         </p>
                         <p class="text-gray-400 dark:text-gray-300 font-light text-md">
-                            Work at home, remote, is the new age of the job, every person can work at home....
+                            Vidpic is an on demand video and photo service...
                         </p>
-                        <div class="flex items-center mt-4">
-                            <a href="#" class="block relative">
-                                <img alt="profil" src="/images/person/6.jpg" class="mx-auto object-cover rounded-full h-10 w-10 "/>
-                            </a>
-                            <div class="flex flex-col justify-between ml-4 text-sm">
-                                <p class="text-gray-800 dark:text-white">
-                                    Jean Jacques
-                                </p>
-                                <p class="text-gray-400 dark:text-gray-300">
-                                    20 mars 2029 - 6 min read
-                                </p>
-                            </div>
-                        </div>
                     </div>
                 </a>
             </div>
@@ -50,27 +37,14 @@
                     <img alt="blog photo" src="/work2.png" class="max-h-40 w-full object-cover"/>
                     <div class="bg-white dark:bg-gray-800 w-full p-4">
                         <p class="text-indigo-500 text-md font-medium">
-                            Oui
+                            Website
                         </p>
                         <p class="text-gray-800 dark:text-white text-xl font-medium mb-2">
-                            test
+                            Vela Veritas Foundation
                         </p>
                         <p class="text-gray-400 dark:text-gray-300 font-light text-md">
-                            The new supercar is here, 543 cv and 140 000$ !!
+                            Official website for Vela Veritas Foundation ....!!
                         </p>
-                        <div class="flex items-center mt-4">
-                            <a href="#" class="block relative">
-                                <img alt="profil" src="/images/person/6.jpg" class="mx-auto object-cover rounded-full h-10 w-10 "/>
-                            </a>
-                            <div class="flex flex-col justify-between ml-4 text-sm">
-                                <p class="text-gray-800 dark:text-white">
-                                    Jean Jacques
-                                </p>
-                                <p class="text-gray-400 dark:text-gray-300">
-                                    20 mars 2029 - 6 min read
-                                </p>
-                            </div>
-                        </div>
                     </div>
                 </a>
             </div>
