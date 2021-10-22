@@ -11,9 +11,6 @@
             <p class="text-4xl font-bold text-gray-800 mb-4">
                 Lastest Projects
             </p>
-            <p class="text-2xl font-light text-gray-400">
-                All article are verified by 2 experts and valdiate by the CTO
-            </p>
         </div>
         <div class="text-end">
             </div>
@@ -21,7 +18,7 @@
         <div class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-12">
             <div class="overflow-hidden shadow-lg rounded-lg h-90 w-60 md:w-80 cursor-pointer m-auto">
                 <a href="#" class="w-full block h-full">
-                    <img alt="blog photo" src="/images/blog/1.jpg" class="max-h-40 w-full object-cover"/>
+                    <img alt="blog photo" src="work1.png" class="max-h-40 w-full object-cover"/>
                     <div class="bg-white dark:bg-gray-800 w-full p-4">
                         <p class="text-indigo-500 text-md font-medium">
                             Video
@@ -50,7 +47,7 @@
             </div>
             <div class="overflow-hidden shadow-lg rounded-lg h-90 w-60 md:w-80 cursor-pointer m-auto">
                 <a href="#" class="w-full block h-full">
-                    <img alt="blog photo" src="/images/blog/2.jpg" class="max-h-40 w-full object-cover"/>
+                    <img alt="blog photo" src="/work2.jpng" class="max-h-40 w-full object-cover"/>
                     <div class="bg-white dark:bg-gray-800 w-full p-4">
                         <p class="text-indigo-500 text-md font-medium">
                             Oui
