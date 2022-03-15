@@ -17,7 +17,7 @@
         <a class="block lg:inline-block mt-4 lg:mt-0 mr-10 text-blue-900 hover:text-indigo-600" href="/works">
             WORKS
         </a>
-        <a class="block lg:inline-block mt-4 lg:mt-0 mr-10 text-blue-900 hover:text-indigo-600" href="https://drive.google.com/file/d/1a8VwiV_Q3yW3sGlEO_EoU-LPPHLW7jko/view?usp=sharing">
+        <a class="block lg:inline-block mt-4 lg:mt-0 mr-10 text-blue-900 hover:text-indigo-600" href="https://drive.google.com/file/d/1r1rHlYNzFVqFi-Lqeko6-03kqjjdaBME/view?usp=sharing">
             RESUME
         </a>
         <a class="block lg:inline-block mt-4 lg:mt-0 text-blue-900 hover:text-indigo-600" href="https://wadeydev.hashnode.dev/">
